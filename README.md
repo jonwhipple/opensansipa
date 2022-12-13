@@ -74,9 +74,9 @@ These fonts **_do not_** contain
 `sources` contains source `.ufo` files.
 
 ## Technical Notes
-These fonts are based on Open Sans available via Google Fonts. This project isn't forked and it doesn't track the original project.
+These fonts are based on [Open Sans](https://github.com/googlefonts/opensans) available via Google Fonts. This project isn't forked and it doesn't track the original project.
 
-These fonts are generated from the original projects sources `.ufo` files as at 2022-12-12. Subsequently they have all the IPA and and diacritics. They also have _a lot_ of kerning pairs and other things that maybe make them a bit large or exhibit momentary delays when displaying for the first time on a device.
+These fonts are generated from the original projects sources `.ufo` files as at 2022-12-12. Subsequently they have all the IPA and diacritics needed. They also have _a lot_ of kerning pairs and other features that maybe make them a bit large or exhibit momentary delays when displaying for the first time on a device.
 
 These were made to solve some particular problems with previous versions from previous projects. Don't use those. Use these.
 
