@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="holamhaser-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05BA"/>
+	<anchor x="239.1" y="1236.66667" name="_topleft"/>
+	<note>
+		uni05BA
+	</note>
+	<outline>
+		<contour>
+			<point x="149.1" y="1256.66667" type="curve" smooth="yes"/>
+			<point x="204.26667" y="1256.66667"/>
+			<point x="239.8" y="1300.86667"/>
+			<point x="239.8" y="1360.7" type="curve" smooth="yes"/>
+			<point x="239.8" y="1391.6"/>
+			<point x="221.86667" y="1412.03333"/>
+			<point x="182.26667" y="1412.03333" type="curve" smooth="yes"/>
+			<point x="126" y="1412.03333"/>
+			<point x="94.1" y="1362.36667"/>
+			<point x="94.1" y="1304.23333" type="curve" smooth="yes"/>
+			<point x="94.1" y="1275.63333"/>
+			<point x="110.8" y="1256.66667"/>
+		</contour>
+	</outline>
+</glyph>

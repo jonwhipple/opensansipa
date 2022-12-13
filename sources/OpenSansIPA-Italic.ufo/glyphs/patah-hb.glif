@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="patah-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B7"/>
+	<anchor x="-136.4" y="-92.63333" name="_bottom"/>
+	<note>
+		afii57798
+	</note>
+	<outline>
+		<contour>
+			<point x="-340.7" y="-194.9" type="line"/>
+			<point x="24.7" y="-194.9" type="line"/>
+			<point x="42.56667" y="-112.63333" type="line"/>
+			<point x="-322.83333" y="-112.63333" type="line"/>
+		</contour>
+	</outline>
+</glyph>

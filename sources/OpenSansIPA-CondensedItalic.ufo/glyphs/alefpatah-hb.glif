@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefpatah-hb" format="2">
+	<advance width="859.36667"/>
+	<unicode hex="FB2E"/>
+	<note>
+		uniFB2E
+	</note>
+	<outline>
+		<component base="alef-hb"/>
+		<component base="patah-hb" xOffset="382.900" yOffset="-108.067"/>
+	</outline>
+</glyph>

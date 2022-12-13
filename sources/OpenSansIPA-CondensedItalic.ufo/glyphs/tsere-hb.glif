@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsere-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B5"/>
+	<anchor x="-135" y="-63.96667" name="_bottom"/>
+	<note>
+		afii57794
+	</note>
+	<outline>
+		<contour>
+			<point x="-21.06667" y="-241.66667" type="curve" smooth="yes"/>
+			<point x="37.66667" y="-241.66667"/>
+			<point x="69.16667" y="-197.46667"/>
+			<point x="69.16667" y="-142.23333" type="curve" smooth="yes"/>
+			<point x="69.16667" y="-103.7"/>
+			<point x="47.73333" y="-83.96667"/>
+			<point x="6.56667" y="-83.96667" type="curve" smooth="yes"/>
+			<point x="-49.93333" y="-83.96667"/>
+			<point x="-82.2" y="-132.86667"/>
+			<point x="-82.2" y="-186.33333" type="curve" smooth="yes"/>
+			<point x="-82.2" y="-222.23333"/>
+			<point x="-60.83333" y="-241.66667"/>
+		</contour>
+		<contour>
+			<point x="-310.86667" y="-241.66667" type="curve" smooth="yes"/>
+			<point x="-253.6" y="-241.66667"/>
+			<point x="-222.8" y="-196.53333"/>
+			<point x="-222.8" y="-141.06667" type="curve" smooth="yes"/>
+			<point x="-222.8" y="-101.36667"/>
+			<point x="-246.1" y="-83.96667"/>
+			<point x="-284" y="-83.96667" type="curve" smooth="yes"/>
+			<point x="-339.5" y="-83.96667"/>
+			<point x="-371.53333" y="-132.16667"/>
+			<point x="-371.53333" y="-185.63333" type="curve" smooth="yes"/>
+			<point x="-371.53333" y="-222"/>
+			<point x="-351.1" y="-241.66667"/>
+		</contour>
+	</outline>
+</glyph>

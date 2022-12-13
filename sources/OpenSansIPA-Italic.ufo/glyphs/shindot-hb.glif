@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shindot-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05C1"/>
+	<anchor x="167.33333" y="1097.73333" name="_topright"/>
+	<note>
+		afii57804
+	</note>
+	<outline>
+		<contour>
+			<point x="149.86667" y="1256.66667" type="curve" smooth="yes"/>
+			<point x="205.03333" y="1256.66667"/>
+			<point x="240.56667" y="1300.86667"/>
+			<point x="240.56667" y="1360.7" type="curve" smooth="yes"/>
+			<point x="240.56667" y="1391.6"/>
+			<point x="222.63333" y="1412.03333"/>
+			<point x="183.03333" y="1412.03333" type="curve" smooth="yes"/>
+			<point x="126.76667" y="1412.03333"/>
+			<point x="94.1" y="1363.13333"/>
+			<point x="94.1" y="1305" type="curve" smooth="yes"/>
+			<point x="94.1" y="1275.63333"/>
+			<point x="110.8" y="1256.66667"/>
+		</contour>
+	</outline>
+</glyph>

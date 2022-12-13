@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shindageshshindot-hb" format="2">
+	<advance width="1128.96667"/>
+	<unicode hex="FB2C"/>
+	<note>
+		uniFB2C
+	</note>
+	<outline>
+		<component base="shin-hb"/>
+		<component base="dagesh-hb" xOffset="492.733" yOffset="-232.733"/>
+		<component base="shindot-hb" xOffset="998.867" yOffset="-26.833"/>
+	</outline>
+</glyph>

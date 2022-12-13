@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maqaf-hb" format="2">
+	<advance width="559.63333"/>
+	<unicode hex="05BE"/>
+	<note>
+		afii57645
+	</note>
+	<outline>
+		<contour>
+			<point x="187.56667" y="1143.36667" type="line"/>
+			<point x="628.6" y="1143.36667" type="line"/>
+			<point x="659.93333" y="1289.46667" type="line"/>
+			<point x="218.9" y="1289.46667" type="line"/>
+		</contour>
+	</outline>
+</glyph>

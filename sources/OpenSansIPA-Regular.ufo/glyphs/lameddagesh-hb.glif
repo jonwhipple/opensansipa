@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lameddagesh-hb" format="2">
+	<advance width="991.66667"/>
+	<unicode hex="FB3C"/>
+	<note>
+		uniFB3C
+	</note>
+	<outline>
+		<component base="lamed-hb"/>
+		<component base="dagesh-hb" xOffset="316.333" yOffset="81.333"/>
+	</outline>
+</glyph>

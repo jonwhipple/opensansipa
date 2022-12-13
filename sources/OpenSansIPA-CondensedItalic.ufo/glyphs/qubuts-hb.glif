@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qubuts-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05BB"/>
+	<anchor x="-146.2" y="-75.63333" name="_bottom"/>
+	<note>
+		afii57796
+	</note>
+	<outline>
+		<contour>
+			<point x="-325.33333" y="-253.33333" type="curve" smooth="yes"/>
+			<point x="-268.3" y="-253.33333"/>
+			<point x="-237.26667" y="-208.66667"/>
+			<point x="-237.26667" y="-153.66667" type="curve" smooth="yes"/>
+			<point x="-237.26667" y="-112.8"/>
+			<point x="-260.8" y="-95.63333"/>
+			<point x="-298.7" y="-95.63333" type="curve" smooth="yes"/>
+			<point x="-353.96667" y="-95.63333"/>
+			<point x="-385.53333" y="-144.06667"/>
+			<point x="-385.53333" y="-198" type="curve" smooth="yes"/>
+			<point x="-385.53333" y="-234.6"/>
+			<point x="-365.1" y="-253.33333"/>
+		</contour>
+		<contour>
+			<point x="-201.3" y="-400.03333" type="curve" smooth="yes"/>
+			<point x="-144.03333" y="-400.03333"/>
+			<point x="-111.23333" y="-353.6"/>
+			<point x="-111.23333" y="-299.36667" type="curve" smooth="yes"/>
+			<point x="-111.23333" y="-262"/>
+			<point x="-132.66667" y="-241.56667"/>
+			<point x="-174.66667" y="-241.56667" type="curve" smooth="yes"/>
+			<point x="-229.7" y="-241.56667"/>
+			<point x="-261.5" y="-290.53333"/>
+			<point x="-261.5" y="-343.76667" type="curve" smooth="yes"/>
+			<point x="-261.5" y="-381.76667"/>
+			<point x="-239.66667" y="-400.03333"/>
+		</contour>
+		<contour>
+			<point x="-73.1" y="-546.26667" type="curve" smooth="yes"/>
+			<point x="-15.6" y="-546.26667"/>
+			<point x="15.96667" y="-499.76667"/>
+			<point x="15.96667" y="-445.3" type="curve" smooth="yes"/>
+			<point x="15.96667" y="-407.3"/>
+			<point x="-6.16667" y="-388.03333"/>
+			<point x="-46.7" y="-388.03333" type="curve" smooth="yes"/>
+			<point x="-102.43333" y="-388.03333"/>
+			<point x="-134.46667" y="-437.23333"/>
+			<point x="-134.46667" y="-490.7" type="curve" smooth="yes"/>
+			<point x="-134.46667" y="-528.7"/>
+			<point x="-111.93333" y="-546.26667"/>
+		</contour>
+	</outline>
+</glyph>

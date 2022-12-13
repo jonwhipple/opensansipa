@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="segol-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B6"/>
+	<anchor x="-109.1" y="-77.9" name="_bottom"/>
+	<note>
+		afii57795
+	</note>
+	<outline>
+		<contour>
+			<point x="-313.9" y="-271" type="curve" smooth="yes"/>
+			<point x="-249.4" y="-271"/>
+			<point x="-213.4" y="-231.7"/>
+			<point x="-213.4" y="-175.6" type="curve" smooth="yes"/>
+			<point x="-213.4" y="-123.7"/>
+			<point x="-244.4" y="-97.9"/>
+			<point x="-299.4" y="-97.9" type="curve" smooth="yes"/>
+			<point x="-361.5" y="-97.9"/>
+			<point x="-401.7" y="-141.9"/>
+			<point x="-401.7" y="-196.3" type="curve" smooth="yes"/>
+			<point x="-401.7" y="-243.4"/>
+			<point x="-368.9" y="-271"/>
+		</contour>
+		<contour>
+			<point x="-15.4" y="-271.3" type="curve" smooth="yes"/>
+			<point x="49.1" y="-271.3"/>
+			<point x="85.1" y="-232"/>
+			<point x="85.1" y="-175.9" type="curve" smooth="yes"/>
+			<point x="85.1" y="-124"/>
+			<point x="54.1" y="-98.2"/>
+			<point x="-0.9" y="-98.2" type="curve" smooth="yes"/>
+			<point x="-63" y="-98.2"/>
+			<point x="-103.2" y="-142.2"/>
+			<point x="-103.2" y="-196.6" type="curve" smooth="yes"/>
+			<point x="-103.2" y="-243.7"/>
+			<point x="-70.4" y="-271.3"/>
+		</contour>
+		<contour>
+			<point x="-212.2" y="-521.7" type="curve" smooth="yes"/>
+			<point x="-147.7" y="-521.7"/>
+			<point x="-111.7" y="-482.4"/>
+			<point x="-111.7" y="-426.3" type="curve" smooth="yes"/>
+			<point x="-111.7" y="-374.4"/>
+			<point x="-142.7" y="-348.6"/>
+			<point x="-197.7" y="-348.6" type="curve" smooth="yes"/>
+			<point x="-259.8" y="-348.6"/>
+			<point x="-300" y="-392.6"/>
+			<point x="-300" y="-447" type="curve" smooth="yes"/>
+			<point x="-300" y="-494.1"/>
+			<point x="-267.2" y="-521.7"/>
+		</contour>
+	</outline>
+</glyph>

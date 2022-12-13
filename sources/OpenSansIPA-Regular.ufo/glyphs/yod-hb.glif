@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yod-hb" format="2">
+	<advance width="492"/>
+	<unicode hex="05D9"/>
+	<anchor x="246" y="0" name="bottom"/>
+	<anchor x="22.33333" y="0" name="bottomleft"/>
+	<anchor x="9.66667" y="905.33333" name="center"/>
+	<anchor x="246" y="1097.66667" name="top"/>
+	<anchor x="22.33333" y="1097.66667" name="topleft"/>
+	<note>
+		afii57673
+	</note>
+	<outline>
+		<contour>
+			<point x="162.33333" y="467.33333" type="line"/>
+			<point x="209.66667" y="467.33333" type="line"/>
+			<point x="331" y="618" type="line"/>
+			<point x="331" y="1291" type="line"/>
+			<point x="162.33333" y="1291" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<false/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>4</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>1</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

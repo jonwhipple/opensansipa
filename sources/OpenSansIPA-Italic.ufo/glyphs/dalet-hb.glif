@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalet-hb" format="2">
+	<advance width="1027.66667"/>
+	<unicode hex="05D3"/>
+	<anchor x="397.4" y="0" name="bottom"/>
+	<anchor x="-96.93333" y="0" name="bottomleft"/>
+	<anchor x="352.1" y="666.86667" name="center"/>
+	<anchor x="631.26667" y="1097.73333" name="top"/>
+	<anchor x="136.93333" y="1097.73333" name="topleft"/>
+	<note>
+		afii57667
+	</note>
+	<outline>
+		<contour>
+			<point x="478.5" y="0" type="line"/>
+			<point x="647.23333" y="0" type="line"/>
+			<point x="837" y="893.23333" type="line" smooth="yes"/>
+			<point x="856.06667" y="980.03333"/>
+			<point x="889.86667" y="1042.6"/>
+			<point x="940.2" y="1084.2" type="curve" smooth="yes"/>
+			<point x="990.06667" y="1125.33333"/>
+			<point x="1033.23333" y="1146.26667"/>
+			<point x="1099.16667" y="1168.2" type="curve"/>
+			<point x="1125.2" y="1291.16667" type="line"/>
+			<point x="178.96667" y="1291.16667" type="line"/>
+			<point x="149.46667" y="1153.93333" type="line"/>
+			<point x="853.26667" y="1153.93333" type="line"/>
+			<point x="840.3" y="1147.33333" type="line" smooth="yes"/>
+			<point x="813.66667" y="1132"/>
+			<point x="783.83333" y="1106"/>
+			<point x="750.56667" y="1069.1" type="curve" smooth="yes"/>
+			<point x="716.66667" y="1030.56667"/>
+			<point x="683.86667" y="966.86667"/>
+			<point x="668.5" y="894.86667" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="siluqleft-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05BD"/>
+	<anchor x="-147.3" y="-131" name="_bottom"/>
+	<note>
+		afii57839
+	</note>
+	<outline>
+		<contour>
+			<point x="-272.5" y="-489.2" type="line"/>
+			<point x="-173.7" y="-489.2" type="line"/>
+			<point x="-102.1" y="-151" type="line"/>
+			<point x="-200.9" y="-151" type="line"/>
+		</contour>
+	</outline>
+</glyph>

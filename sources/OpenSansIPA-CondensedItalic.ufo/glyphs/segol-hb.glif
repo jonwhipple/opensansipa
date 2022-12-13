@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="segol-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B6"/>
+	<anchor x="-103.03333" y="-65.3" name="_bottom"/>
+	<note>
+		afii57795
+	</note>
+	<outline>
+		<contour>
+			<point x="-310.63333" y="-243" type="curve" smooth="yes"/>
+			<point x="-253.13333" y="-243"/>
+			<point x="-221.8" y="-198.56667"/>
+			<point x="-221.8" y="-143.86667" type="curve" smooth="yes"/>
+			<point x="-221.8" y="-104.56667"/>
+			<point x="-243.46667" y="-85.3"/>
+			<point x="-284.46667" y="-85.3" type="curve" smooth="yes"/>
+			<point x="-340.5" y="-85.3"/>
+			<point x="-373.23333" y="-133.96667"/>
+			<point x="-373.23333" y="-187.43333" type="curve" smooth="yes"/>
+			<point x="-373.23333" y="-223.8"/>
+			<point x="-351.63333" y="-243"/>
+		</contour>
+		<contour>
+			<point x="-19.13333" y="-243.76667" type="curve" smooth="yes"/>
+			<point x="38.36667" y="-243.76667"/>
+			<point x="69.7" y="-199.33333"/>
+			<point x="69.7" y="-144.63333" type="curve" smooth="yes"/>
+			<point x="69.7" y="-105.33333"/>
+			<point x="48.03333" y="-86.06667"/>
+			<point x="7.03333" y="-86.06667" type="curve" smooth="yes"/>
+			<point x="-49" y="-86.06667"/>
+			<point x="-81.73333" y="-134.73333"/>
+			<point x="-81.73333" y="-188.2" type="curve" smooth="yes"/>
+			<point x="-81.73333" y="-224.56667"/>
+			<point x="-60.13333" y="-243.76667"/>
+		</contour>
+		<contour>
+			<point x="-218.73333" y="-502.56667" type="curve" smooth="yes"/>
+			<point x="-161.23333" y="-502.56667"/>
+			<point x="-129.9" y="-458.13333"/>
+			<point x="-129.9" y="-403.43333" type="curve" smooth="yes"/>
+			<point x="-129.9" y="-364.13333"/>
+			<point x="-151.56667" y="-344.86667"/>
+			<point x="-192.56667" y="-344.86667" type="curve" smooth="yes"/>
+			<point x="-248.6" y="-344.86667"/>
+			<point x="-281.33333" y="-393.53333"/>
+			<point x="-281.33333" y="-447" type="curve" smooth="yes"/>
+			<point x="-281.33333" y="-483.36667"/>
+			<point x="-259.73333" y="-502.56667"/>
+		</contour>
+	</outline>
+</glyph>

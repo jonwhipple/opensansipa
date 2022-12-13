@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsadi-hb" format="2">
+	<advance width="837.66667"/>
+	<unicode hex="05E6"/>
+	<anchor x="419.33333" y="0" name="bottom"/>
+	<anchor x="20" y="0" name="bottomleft"/>
+	<anchor x="200" y="393.33333" name="center"/>
+	<anchor x="419.33333" y="1094.66667" name="top"/>
+	<anchor x="20" y="1094.66667" name="topleft"/>
+	<note>
+		afii57686
+	</note>
+	<outline>
+		<contour>
+			<point x="62" y="0" type="line"/>
+			<point x="748.66667" y="0" type="line"/>
+			<point x="748.66667" y="81.33333" type="line"/>
+			<point x="556.33333" y="481.66667" type="line"/>
+			<point x="606" y="529.66667"/>
+			<point x="637.66667" y="583.66667"/>
+			<point x="663.33333" y="646.33333" type="curve" smooth="yes"/>
+			<point x="691.66667" y="701.66667"/>
+			<point x="706.66667" y="753.66667"/>
+			<point x="718" y="806" type="curve" smooth="yes"/>
+			<point x="734.66667" y="880"/>
+			<point x="742.33333" y="945"/>
+			<point x="749.33333" y="1040.66667" type="curve" smooth="yes"/>
+			<point x="774" y="1289.66667" type="line"/>
+			<point x="622.66667" y="1289.66667" type="line"/>
+			<point x="593" y="989.66667" type="line" smooth="yes"/>
+			<point x="575.33333" y="823.66667"/>
+			<point x="549.33333" y="716.66667"/>
+			<point x="489" y="626.33333" type="curve"/>
+			<point x="480.66667" y="648.66667" type="line"/>
+			<point x="218.33333" y="1290" type="line"/>
+			<point x="58.66667" y="1290" type="line"/>
+			<point x="366" y="548.33333" type="line"/>
+			<point x="563.66667" y="123.33333" type="line"/>
+			<point x="418" y="127.66667" type="line"/>
+			<point x="62" y="127.66667" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.hints</key>
+			<array>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>0</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>25</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>24</integer>
+					</array>
+					<key>type</key>
+					<string>Stem</string>
+				</dict>
+				<dict>
+					<key>horizontal</key>
+					<true/>
+					<key>options</key>
+					<integer>4</integer>
+					<key>origin</key>
+					<array>
+						<integer>0</integer>
+						<integer>24</integer>
+					</array>
+					<key>stem</key>
+					<integer>-2</integer>
+					<key>target</key>
+					<array>
+						<integer>0</integer>
+						<integer>25</integer>
+					</array>
+					<key>type</key>
+					<string>TTStem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

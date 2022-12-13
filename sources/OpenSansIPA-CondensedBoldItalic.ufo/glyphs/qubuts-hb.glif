@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qubuts-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05BB"/>
+	<anchor x="-182.6" y="-106.9" name="_bottom"/>
+	<note>
+		afii57796
+	</note>
+	<outline>
+		<contour>
+			<point x="-358" y="-300" type="curve" smooth="yes"/>
+			<point x="-294.9" y="-300"/>
+			<point x="-257.8" y="-260"/>
+			<point x="-257.8" y="-205" type="curve" smooth="yes"/>
+			<point x="-257.8" y="-146.4"/>
+			<point x="-294.4" y="-126.9"/>
+			<point x="-342.1" y="-126.9" type="curve" smooth="yes"/>
+			<point x="-403.9" y="-126.9"/>
+			<point x="-440.6" y="-170.2"/>
+			<point x="-440.6" y="-226" type="curve" smooth="yes"/>
+			<point x="-440.6" y="-273.8"/>
+			<point x="-411.3" y="-300"/>
+		</contour>
+		<contour>
+			<point x="-213.9" y="-476.1" type="curve" smooth="yes"/>
+			<point x="-150.1" y="-476.1"/>
+			<point x="-111.7" y="-434.8"/>
+			<point x="-111.7" y="-380.1" type="curve" smooth="yes"/>
+			<point x="-111.7" y="-332"/>
+			<point x="-142" y="-302.7"/>
+			<point x="-198" y="-302.7" type="curve" smooth="yes"/>
+			<point x="-259.1" y="-302.7"/>
+			<point x="-296.5" y="-345.6"/>
+			<point x="-296.5" y="-399.3" type="curve" smooth="yes"/>
+			<point x="-296.5" y="-451.3"/>
+			<point x="-263" y="-476.1"/>
+		</contour>
+		<contour>
+			<point x="-63.3" y="-650.8" type="curve" smooth="yes"/>
+			<point x="1.2" y="-650.8"/>
+			<point x="37.9" y="-611.3"/>
+			<point x="37.9" y="-555.9" type="curve" smooth="yes"/>
+			<point x="37.9" y="-503.9"/>
+			<point x="5.5" y="-478.1"/>
+			<point x="-48.1" y="-478.1" type="curve" smooth="yes"/>
+			<point x="-111.3" y="-478.1"/>
+			<point x="-149.4" y="-521.7"/>
+			<point x="-149.4" y="-576.1" type="curve" smooth="yes"/>
+			<point x="-149.4" y="-628.1"/>
+			<point x="-113.8" y="-650.8"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalmem-hb" format="2">
+	<advance width="1249.33333"/>
+	<unicode hex="05DD"/>
+	<anchor x="508.23333" y="0" name="bottom"/>
+	<anchor x="-96.93333" y="0" name="bottomleft"/>
+	<anchor x="625.16667" y="549.36667" name="center"/>
+	<anchor x="742.1" y="1097.73333" name="top"/>
+	<anchor x="136.93333" y="1097.73333" name="topleft"/>
+	<note>
+		afii57677
+	</note>
+	<outline>
+		<contour>
+			<point x="17.23333" y="0" type="line"/>
+			<point x="963.23333" y="0" type="line"/>
+			<point x="1161.2" y="931.3" type="line" smooth="yes"/>
+			<point x="1169.9" y="971.1"/>
+			<point x="1174.13333" y="1007.66667"/>
+			<point x="1174.13333" y="1041" type="curve" smooth="yes"/>
+			<point x="1174.13333" y="1123.4"/>
+			<point x="1145.53333" y="1193.76667"/>
+			<point x="1088.33333" y="1234.93333" type="curve" smooth="yes"/>
+			<point x="1001.46667" y="1296.33333"/>
+			<point x="893.53333" y="1310.93333"/>
+			<point x="737.16667" y="1310.93333" type="curve" smooth="yes"/>
+			<point x="595.13333" y="1310.93333"/>
+			<point x="343.6" y="1292.8"/>
+			<point x="290.76667" y="1286.96667" type="curve"/>
+		</contour>
+		<contour>
+			<point x="214.7" y="137.23333" type="line"/>
+			<point x="432.4" y="1159.5" type="line"/>
+			<point x="539.93333" y="1167.4"/>
+			<point x="626.23333" y="1171.7"/>
+			<point x="690.83333" y="1171.93333" type="curve" smooth="yes"/>
+			<point x="799.53333" y="1171.93333"/>
+			<point x="919.36667" y="1166.76667"/>
+			<point x="969.06667" y="1103" type="curve" smooth="yes"/>
+			<point x="988.76667" y="1078.5"/>
+			<point x="1000.53333" y="1047.53333"/>
+			<point x="1000.53333" y="1004.73333" type="curve" smooth="yes"/>
+			<point x="1000.53333" y="984.23333"/>
+			<point x="998" y="960.43333"/>
+			<point x="992.16667" y="934.1" type="curve" smooth="yes"/>
+			<point x="822.23333" y="137.23333" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheva-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B0"/>
+	<anchor x="-131.1" y="-64.9" name="_bottom"/>
+	<note>
+		afii57799
+	</note>
+	<outline>
+		<contour>
+			<point x="-169.03333" y="-240.26667" type="curve" smooth="yes"/>
+			<point x="-114.1" y="-240.26667"/>
+			<point x="-78.8" y="-196.06667"/>
+			<point x="-78.8" y="-136" type="curve" smooth="yes"/>
+			<point x="-78.8" y="-105.1"/>
+			<point x="-96.26667" y="-84.9"/>
+			<point x="-135.86667" y="-84.9" type="curve" smooth="yes"/>
+			<point x="-192.13333" y="-84.9"/>
+			<point x="-224.8" y="-134.03333"/>
+			<point x="-224.8" y="-191.93333" type="curve" smooth="yes"/>
+			<point x="-224.8" y="-221.06667"/>
+			<point x="-207.86667" y="-240.26667"/>
+		</contour>
+		<contour>
+			<point x="-223.86667" y="-498.9" type="curve" smooth="yes"/>
+			<point x="-168.16667" y="-498.9"/>
+			<point x="-132.86667" y="-453.16667"/>
+			<point x="-132.86667" y="-392.86667" type="curve" smooth="yes"/>
+			<point x="-132.86667" y="-362.96667"/>
+			<point x="-150.33333" y="-342.76667"/>
+			<point x="-190.7" y="-342.76667" type="curve" smooth="yes"/>
+			<point x="-246.5" y="-342.76667"/>
+			<point x="-279.63333" y="-392.66667"/>
+			<point x="-279.63333" y="-450.33333" type="curve" smooth="yes"/>
+			<point x="-279.63333" y="-479.7"/>
+			<point x="-262.7" y="-498.9"/>
+		</contour>
+	</outline>
+</glyph>

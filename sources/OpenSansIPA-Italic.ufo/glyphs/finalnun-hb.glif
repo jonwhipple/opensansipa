@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalnun-hb" format="2">
+	<advance width="448.03333"/>
+	<unicode hex="05DF"/>
+	<anchor x="107.2" y="0" name="bottom"/>
+	<anchor x="-96.93333" y="0" name="bottomleft"/>
+	<anchor x="224.13333" y="549.36667" name="center"/>
+	<anchor x="341.06667" y="1097.73333" name="top"/>
+	<anchor x="136.93333" y="1097.73333" name="topleft"/>
+	<note>
+		afii57679
+	</note>
+	<outline>
+		<contour>
+			<point x="-100.43333" y="-487.56667" type="line"/>
+			<point x="68.53333" y="-487.56667" type="line"/>
+			<point x="360.4" y="885.4" type="line" smooth="yes"/>
+			<point x="386.96667" y="1009.3"/>
+			<point x="387.13333" y="1135.43333"/>
+			<point x="387.13333" y="1197.73333" type="curve" smooth="yes"/>
+			<point x="387.13333" y="1228.5"/>
+			<point x="385.13333" y="1259.56667"/>
+			<point x="380.6" y="1291.16667" type="curve"/>
+			<point x="210.86667" y="1291.16667" type="line"/>
+			<point x="216.86667" y="1238.43333"/>
+			<point x="219.4" y="1190.53333"/>
+			<point x="219.4" y="1135.86667" type="curve" smooth="yes"/>
+			<point x="219.4" y="1058.26667"/>
+			<point x="210" y="975.13333"/>
+			<point x="191.43333" y="885.4" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

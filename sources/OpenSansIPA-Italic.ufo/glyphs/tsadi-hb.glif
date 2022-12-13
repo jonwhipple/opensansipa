@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsadi-hb" format="2">
+	<advance width="1110.73333"/>
+	<unicode hex="05E6"/>
+	<anchor x="438.93333" y="0" name="bottom"/>
+	<anchor x="-96.93333" y="0" name="bottomleft"/>
+	<anchor x="218.3" y="502.7" name="center"/>
+	<anchor x="672.8" y="1097.73333" name="top"/>
+	<anchor x="136.93333" y="1097.73333" name="topleft"/>
+	<note>
+		afii57686
+	</note>
+	<outline>
+		<contour>
+			<point x="-69.13333" y="0" type="line"/>
+			<point x="880.7" y="0" type="line"/>
+			<point x="901.63333" y="99.63333" type="line"/>
+			<point x="710.66667" y="496.66667" type="line"/>
+			<point x="763.76667" y="537.16667"/>
+			<point x="814.26667" y="583.66667"/>
+			<point x="860.16667" y="634.4" type="curve" smooth="yes"/>
+			<point x="957.56667" y="742.76667"/>
+			<point x="1035.73333" y="878.53333"/>
+			<point x="1083.7" y="1035.53333" type="curve" smooth="yes"/>
+			<point x="1109.93333" y="1121"/>
+			<point x="1135.93333" y="1205.7"/>
+			<point x="1162.16667" y="1291.16667" type="curve"/>
+			<point x="1003.1" y="1291.16667" type="line"/>
+			<point x="921.76667" y="1026.9" type="line" smooth="yes"/>
+			<point x="871.16667" y="863.56667"/>
+			<point x="781.06667" y="728.33333"/>
+			<point x="651.7" y="621.2" type="curve"/>
+			<point x="641.5" y="642.36667"/>
+			<point x="632.3" y="664.06667"/>
+			<point x="622.1" y="685.23333" type="curve"/>
+			<point x="384.06667" y="1291.16667" type="line"/>
+			<point x="201.4" y="1291.16667" type="line"/>
+			<point x="490.93333" y="581.4" type="line"/>
+			<point x="704.03333" y="135.13333" type="line"/>
+			<point x="663.93333" y="135.83333"/>
+			<point x="623.06667" y="136.53333"/>
+			<point x="582.96667" y="137.23333" type="curve"/>
+			<point x="-39.63333" y="137.23333" type="line"/>
+		</contour>
+	</outline>
+</glyph>

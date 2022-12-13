@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hatafqamats-hb" format="2">
+	<advance width="0"/>
+	<unicode hex="05B3"/>
+	<anchor x="-120.1" y="-71.9" name="_bottom"/>
+	<note>
+		afii57802
+	</note>
+	<outline>
+		<contour>
+			<point x="-366.46667" y="-414.86667" type="line"/>
+			<point x="-281.63333" y="-414.86667" type="line"/>
+			<point x="-238.63333" y="-212.86667" type="line"/>
+			<point x="-101.3" y="-212.86667" type="line"/>
+			<point x="-83.03333" y="-126.7" type="line"/>
+			<point x="-442.76667" y="-126.7" type="line"/>
+			<point x="-461.03333" y="-212.86667" type="line"/>
+			<point x="-323.46667" y="-212.86667" type="line"/>
+		</contour>
+		<contour>
+			<point x="3.16667" y="-505.9" type="curve" smooth="yes"/>
+			<point x="60.9" y="-505.9"/>
+			<point x="93.23333" y="-459.46667"/>
+			<point x="93.23333" y="-405" type="curve" smooth="yes"/>
+			<point x="93.23333" y="-367.86667"/>
+			<point x="71.8" y="-347.66667"/>
+			<point x="30.03333" y="-347.66667" type="curve" smooth="yes"/>
+			<point x="-27.76667" y="-347.66667"/>
+			<point x="-58.8" y="-396.1"/>
+			<point x="-58.8" y="-449.86667" type="curve" smooth="yes"/>
+			<point x="-58.8" y="-487.16667"/>
+			<point x="-37.66667" y="-505.9"/>
+		</contour>
+		<contour>
+			<point x="57.53333" y="-249.6" type="curve" smooth="yes"/>
+			<point x="115.03333" y="-249.6"/>
+			<point x="147.06667" y="-204.7"/>
+			<point x="147.06667" y="-150.46667" type="curve" smooth="yes"/>
+			<point x="147.06667" y="-110.7"/>
+			<point x="123.76667" y="-91.9"/>
+			<point x="84.16667" y="-91.9" type="curve" smooth="yes"/>
+			<point x="28.66667" y="-91.9"/>
+			<point x="-2.9" y="-140.1"/>
+			<point x="-2.9" y="-193.56667" type="curve" smooth="yes"/>
+			<point x="-2.9" y="-230.63333"/>
+			<point x="17.76667" y="-249.6"/>
+		</contour>
+	</outline>
+</glyph>
