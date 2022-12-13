@@ -64,7 +64,7 @@ These fonts **_do not_** contain
 
 ## Directory Structure
 
-`dist` contains compressed (`.zip`) archives of compiled binaries in 4 flavours:
+`dist` contains compressed (`.zip`) archives of compiled binaries in 3 flavours:
 - TrueType Font (`.ttf`)
 - Web Open Font Format File (`.woff`)
 - Web Open Font Format 2.0 File (`.woff2`)
