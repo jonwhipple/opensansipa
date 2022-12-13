@@ -3,7 +3,7 @@
 
 This is an [Open Sans](https://github.com/googlefonts/opensans) variant that contains the *International Phonetic Alphabet* Extensions Unicode block.
 
-It may be simplest (for the near term) to simply download the files here as a `.zip` because this isn't tracking the main Google effort, nor am I actively drawing or doing evelopment work beyond ensuring these files exist, provide coverage, and don't break. You are welcome to fork this, but who knows what the future holds?
+It may be simplest (for the near term) to simply download the files here as a `.zip` because this isn't tracking the main Google effort, nor am I actively drawing or doing development work beyond ensuring these files exist, provide coverage, and don't break. You are welcome to fork this, but who knows what the future holds?
 
 - [First Peoples Languages in British Columbia](#first-peoples-languages-in-british-columbia)
 - [Language Coverage](#language-coverage)
