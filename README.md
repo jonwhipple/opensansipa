@@ -81,21 +81,21 @@ These fonts are generated from the original projects sources `.ufo` files as at 
 These were made to solve some particular problems with previous versions from previous projects. Don't use those. Use these.
 
 ### TMI
-In 2015–2016 I extended [Open Sans](https://github.com/googlefonts/opensans) with characters in the IPA unicode range, in order to learn how to handle type and type design. This had the additional benefit of providing a useful font for Vancouver Public Library's new website which had the dual requirements of attempting to adhere to brand guidelines of the time, and establishing typographic support for Indigenous languages of the three First Nations, the territories of which is where Vancouver now exists.
+In 2015–2016 I extended [Open Sans](https://github.com/googlefonts/opensans) with characters in the IPA unicode range, in order to learn how to handle type and type design. This had the additional benefit of providing a useful font for Vancouver Public Library's new website which had the dual requirements of attempting to adhere to brand guidelines of the time, and establishing typographic support for Indigenous languages of the three First Nations' ( xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) ) territories, where Vancouver now exists.
 
 In order to do this work, I established a project separate from the Google Open Sans effort. This was a deliberate choice because I knew I would not be able to actively maintain my fork as Open Sans evolved. Instead I maintained separate files and updated only a couple of times as the local languages and VPL's needs changed.
 
 In 2017 I returned to the work in earnest, with the intent of expanding coverage for all available weights and styles at the time. This became [Open Sans FPBC](https://github.com/jonwhipple/opensansfpbc).
 
-Then because of mental health and a worldwide pandemic, the project lay fallow.
+Then because of my mental health and a worldwide pandemic, the project lay fallow.
 
 In 2022, VPL required even more coverage, which I was happy to add. I became excited about the project again too. I added the required characters but sadly I introduced a scaling flaw by specifying the wrong units per em in various files with predictably bad results.
 
 And that brings us to now.
 
-**STILL NOT A FORK** because I think of this as an interim solution to getting IPA (and eventually, Canadian Syllabics) into Open Sans.
+**STILL NOT A FORK** of the original project because I think of this as an interim solution to getting IPA (and eventually, Canadian Syllabics) into Open Sans.
 
-**NO SEMIBOLD** because there are no `.ufo`s of semibold.
+**NO SEMIBOLD** because there are no `.ufo`s of semibold; and I am not able to draw or generate the characters required at this time.
 
 I have used the `.ufo` files because they are character complete in the Unicode Ranges mentioned above. The shipping `.ttf` files in the Google Fonts [Open Sans](https://github.com/googlefonts/opensans) project contain only a subset of the IPA and other unicode ranges needed.
 
